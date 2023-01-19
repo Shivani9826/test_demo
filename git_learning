@@ -1,0 +1,5 @@
+git commands 
+git init - for initializing
+git status - for check status 
+git add . - for add all
+git commit - for commiting
